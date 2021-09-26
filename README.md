@@ -1,6 +1,6 @@
 ## Oi! 🌸🌈🍧🦄🦋✨
 
-<img src="https://media.giphy.com/media/ao2IHZ0y6ZD2M/giphy.gif?cid=ecf05e47goi8hlmxr5bm92xn1muh3k7hy1lznni0gbmzkl60&rid=giphy.gif&ct=g" width="530" height="400" />
+<img src="https://media.giphy.com/media/ao2IHZ0y6ZD2M/giphy.gif?cid=ecf05e47goi8hlmxr5bm92xn1muh3k7hy1lznni0gbmzkl60&rid=giphy.gif&ct=g" width="590" height="380" />
 
 Estudante de Ciência da Computação - UNESP Presidente Prudente
 
