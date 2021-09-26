@@ -1,15 +1,15 @@
 ## Oi! 🌸🌈🍧🦄🦋✨
 
-<img src="https://media.giphy.com/media/ao2IHZ0y6ZD2M/giphy.gif?cid=ecf05e47goi8hlmxr5bm92xn1muh3k7hy1lznni0gbmzkl60&rid=giphy.gif&ct=g" width="140" height="100" />
+<img src="https://media.giphy.com/media/ao2IHZ0y6ZD2M/giphy.gif?cid=ecf05e47goi8hlmxr5bm92xn1muh3k7hy1lznni0gbmzkl60&rid=giphy.gif&ct=g" width="240" height="200" />
 
 Estudante de Ciência da Computação - UNESP Presidente Prudente
 
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunaanselmo)  ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-anselmo-19393118a/)
 
-
+<br><br>
  
 💙Música 💜Dança 💛Animais 🧡Esportes 
- 
+ <br>
  
 
 
