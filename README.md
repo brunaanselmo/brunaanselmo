@@ -1,4 +1,4 @@
-## Oi! 🌸🦋🍧🦄🤸‍♀️✨
+## Bem vindo(a)! 🌸🦋🍧🦄🤸‍♀️✨
 
 <img src="https://media.giphy.com/media/ao2IHZ0y6ZD2M/giphy.gif?cid=ecf05e47goi8hlmxr5bm92xn1muh3k7hy1lznni0gbmzkl60&rid=giphy.gif&ct=g" width="490" height="290"/>
 
