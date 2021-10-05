@@ -12,7 +12,8 @@
 <br><br><br>
 
 
-![brunaanselmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunaanselmo&theme=tokyonight&show_icons=true&count_private=true&hide=issues)                    [![brunaanselmo](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaanselmo&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/brunaanselmo/)
+![brunaanselmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunaanselmo&theme=tokyonight&show_icons=true&count_private=true&hide=issues)    <br>                
+  [![brunaanselmo](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaanselmo&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/brunaanselmo/)
 
 </div>
 
