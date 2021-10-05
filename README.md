@@ -12,7 +12,7 @@ Estudante de Ciência da Computação - UNESP Presidente Prudente
 <br><br><br>
 
 
-![brunaanselmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunaanselmo&theme=tokyonight&show_icons=true&count_private=true)                              [![brunaanselmo](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaanselmo&langs_count=8&hide=html&layout=compact&theme=tokyonight)](https://github.com/brunaanselmo/)
+![brunaanselmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunaanselmo&theme=tokyonight&show_icons=true&count_private=true)                              [![brunaanselmo](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaanselmo&langs_count=8&hide=html&theme=tokyonight)](https://github.com/brunaanselmo/)
 
 
 
