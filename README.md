@@ -12,7 +12,7 @@ Estudante de Ciência da Computação - UNESP Presidente Prudente
 <br><br><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunaanselmo&theme=tokyonight_icons=true)
+[![brunaanselmo GitHub stats](https://github-readme-stats.vercel.app/api?username=brunaanselmo&hide=html&layout=compact&theme=tokyonight_icons=true)](https://github.com/brunaanselmo/)
       [![brunaanselmo](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaanselmo&hide=html&layout=compact&theme=tokyonight)](https://github.com/brunaanselmo/)
 
 
